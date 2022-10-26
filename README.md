@@ -1,3 +1,4 @@
 # Dumb
 Simply prove someone dumb.
-pranavtelangade.github.io/dumb
+<br/>
+Goto: [pranavtelangade.github.io/dumb](pranavtelangade.github.io/dumb)
